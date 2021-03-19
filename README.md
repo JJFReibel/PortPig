@@ -1,5 +1,5 @@
 # PortPig
-Lists open ports in the console
+**Lists open ports in the console**
 
 Download script using git or directly from GitHub.
 
