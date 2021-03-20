@@ -7,7 +7,7 @@ Download Python 3, latest version (3.10 at time of writing).
 
 From console (Unix or Linux shells compatible with Shell, Bash, Z Shell...), navigate to the desired directory using cd [Path].
 
-Enter PortPig.py and press Enter or Return.
+Enter python3 PortPig.py and press Enter or Return.
 
 Enter the desired IP address at the prompt.
 
